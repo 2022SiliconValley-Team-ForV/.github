@@ -1,6 +1,22 @@
 # TTS
  팀원 5명의 목소리로 원하는 문장을 음성 변환하는 서비스
 <img width="1422" alt="image" src="https://user-images.githubusercontent.com/70627982/182852365-0101dd75-bf84-4b0f-a343-4789a78f664c.png">
+<details>
+<summary>💁🏻결과파일</summary>
+<div markdown="1">
+
+https://user-images.githubusercontent.com/70627982/183007023-d9381579-14a1-434a-afb4-31dc59ea4de9.mp4
+
+https://user-images.githubusercontent.com/70627982/183007034-e7bc51c7-074e-49ef-8a3d-bd0c0f710cf3.mp4
+
+https://user-images.githubusercontent.com/70627982/183007053-d9e090ab-7509-4609-84e8-8add42c76ec3.mp4
+
+https://user-images.githubusercontent.com/70627982/183007081-0274c2e0-42b2-4117-80d6-d0009f5bd065.mp4
+
+https://user-images.githubusercontent.com/70627982/183007072-c04c6f6c-05c5-4ac8-8412-4904eb8539c9.mp4
+
+</div>
+</details>
 
 
  <!-- 동작하는 gif 같이 첨부 -->
