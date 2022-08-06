@@ -110,6 +110,20 @@ docker-compose up --build
 
 <hr>
 
+## 직접 모델파일을 만들어보고 싶으시면 
+[https://github.com/sce-tts/mimic-recording-studio/archive/master.zip](https://github.com/sce-tts/mimic-recording-studio/archive/master.zip)
+
+## 이 mimic studio로 녹음하신 다음에
+[https://colab.research.google.com/drive/1L5o8joH8LDV37eupNUpqqWrOcw1sGCit](https://colab.research.google.com/drive/1L5o8joH8LDV37eupNUpqqWrOcw1sGCit)
+  
+glow-tts 학습을 진행합니다.
+
+[https://colab.research.google.com/drive/1iwDe-seKo4L-xwb4nttsbu0fEHI__nTo](https://colab.research.google.com/drive/1iwDe-seKo4L-xwb4nttsbu0fEHI__nTo)
+  
+그 다음 hifi-gan 학습을 진행하고 maketts 페이지에 checkpoint.pth.tar, config.json, scale_states.npy 파일들을 올리시면 됩니다.
+
+<hr>
+
 ## 5. database
 ![image](https://user-images.githubusercontent.com/70627982/182619271-eba06844-0b6e-4861-8e7d-76645acf0fd0.png)
 
