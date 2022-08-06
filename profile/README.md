@@ -113,7 +113,7 @@ docker-compose up --build
 ## 직접 모델파일을 만들어보고 싶으시면 
 [https://github.com/sce-tts/mimic-recording-studio/archive/master.zip](https://github.com/sce-tts/mimic-recording-studio/archive/master.zip)
 
-## 이 mimic studio로 녹음하신 다음에
+이 mimic studio로 녹음하신 다음에
 [https://colab.research.google.com/drive/1L5o8joH8LDV37eupNUpqqWrOcw1sGCit](https://colab.research.google.com/drive/1L5o8joH8LDV37eupNUpqqWrOcw1sGCit)
   
 glow-tts 학습을 진행합니다.
